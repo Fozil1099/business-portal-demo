@@ -1,0 +1,5 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="60" cy="60" r="60" fill="url(#hc_g)"/>
+<path d="M30 76L50 56L62 68L88 42M88 42H72M88 42V58" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<defs><linearGradient id="hc_g" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse"><stop stop-color="#8B7CF6"/><stop offset="1" stop-color="#4F3CC9"/></linearGradient></defs>
+</svg>

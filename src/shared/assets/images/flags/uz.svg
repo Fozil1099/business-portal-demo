@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <clipPath id="uz-flag-shape">
+      <rect x="0" y="117" width="800" height="566" rx="50" />
+    </clipPath>
+    <clipPath id="uz-flag-white">
+      <rect x="0" y="314" width="800" height="172" />
+    </clipPath>
+    <mask id="uz-flag-crescent">
+      <circle cx="150" cy="209" r="62" fill="#fff" />
+      <circle cx="174" cy="209" r="55" fill="#000" />
+    </mask>
+    <path
+      id="uz-flag-star"
+      d="M0,-11 L2.59,-3.56 L10.46,-3.4 L4.18,1.36 L6.47,8.9 L0,4.4 L-6.47,8.9 L-4.18,1.36 L-10.46,-3.4 L-2.59,-3.56 Z"
+      fill="#fff"
+    />
+  </defs>
+
+  <g clip-path="url(#uz-flag-shape)">
+    <!-- Stripes 15:1:14:1:15 -->
+    <rect x="0" y="117" width="800" height="185" fill="#0099B5" />
+    <rect x="0" y="302" width="800" height="12" fill="#CE1126" />
+    <rect x="0" y="314" width="800" height="172" fill="#fff" />
+    <rect x="0" y="486" width="800" height="12" fill="#CE1126" />
+    <rect x="0" y="498" width="800" height="185" fill="#1EB53A" />
+
+    <rect x="0" y="0" width="800" height="800" fill="#fff" mask="url(#uz-flag-crescent)" />
+
+    <!-- 12 stars: rows of 3, 4 and 5, aligned right -->
+    <use href="#uz-flag-star" x="314" y="163" />
+    <use href="#uz-flag-star" x="346" y="163" />
+    <use href="#uz-flag-star" x="378" y="163" />
+
+    <use href="#uz-flag-star" x="282" y="209" />
+    <use href="#uz-flag-star" x="314" y="209" />
+    <use href="#uz-flag-star" x="346" y="209" />
+    <use href="#uz-flag-star" x="378" y="209" />
+
+    <use href="#uz-flag-star" x="250" y="255" />
+    <use href="#uz-flag-star" x="282" y="255" />
+    <use href="#uz-flag-star" x="314" y="255" />
+    <use href="#uz-flag-star" x="346" y="255" />
+    <use href="#uz-flag-star" x="378" y="255" />
+  </g>
+
+  <!-- Light outline on the white stripe, like the other flags -->
+  <rect
+    x="6"
+    y="123"
+    width="788"
+    height="554"
+    rx="44"
+    fill="none"
+    stroke="#F5F5F5"
+    stroke-width="12"
+    clip-path="url(#uz-flag-white)"
+  />
+</svg>

@@ -1,0 +1,6 @@
+<svg width="624" height="700" viewBox="0 0 624 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M624 160C624 148.954 615.046 140 604 140H470C220 140 20 340 20 590V700H624V160Z" fill="#E4E1FB"/>
+<circle cx="340" cy="230" r="110" fill="url(#hi_g)"/>
+<path d="M120 700C120 520 220 400 340 400C460 400 560 520 560 700H120Z" fill="url(#hi_g)"/>
+<defs><linearGradient id="hi_g" x1="120" y1="120" x2="560" y2="700" gradientUnits="userSpaceOnUse"><stop stop-color="#8B7CF6"/><stop offset="1" stop-color="#4F3CC9"/></linearGradient></defs>
+</svg>

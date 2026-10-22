@@ -1,0 +1,88 @@
+.bg {
+  &__primary__gradient {
+    background: linear-gradient(135deg, #8b7cf6 0%, #4f3cc9 100%);
+  }
+
+  &__gray__gradient {
+    background: linear-gradient(135deg, #464b54 0%, #09090b 100%);
+  }
+
+  &__blue__gradient {
+    background: linear-gradient(135deg, #11b0ff 0%, #0088cc 100%);
+  }
+
+  &__danger__gradient {
+    background: linear-gradient(135deg, #f1522f 0%, #bf2000 100%);
+  }
+
+  &__yellow__gradient {
+    background: linear-gradient(135deg, #f8c275 0%, #c69043 100%);
+  }
+}
+
+.text {
+  &__primary__gradient {
+    position: relative;
+    display: inline-block;
+
+    background: linear-gradient(135deg, #8b7cf6 0%, #4f3cc9 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    &__hover:hover {
+      background: linear-gradient(135deg, #8b7cf6 0%, #4f3cc9 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    &.underlined {
+      &::after {
+        content: "";
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 0.7em;
+        width: calc(100% - 1.2em);
+        height: 1px;
+        background: linear-gradient(135deg, #8b7cf6 0%, #4f3cc9 100%);
+      }
+    }
+  }
+  &__orange__gradient {
+    position: relative;
+    display: inline-block;
+
+    background: linear-gradient(135deg, #f17935 0%, #d94e00 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+.custom__scrollbar {
+  &::-webkit-scrollbar {
+    height: 4px;
+    width: 4px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #d4d4d4;
+    border-radius: 50px;
+    &:hover {
+      background: #bbbbbb;
+    }
+  }
+}
+
+.scroll__none {
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.card {
+  background-color: var(--color-secondary-200);
+  border-radius: 20px;
+  padding: 20px;
+}

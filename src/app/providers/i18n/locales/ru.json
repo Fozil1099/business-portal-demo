@@ -1,0 +1,256 @@
+{
+  "common": {
+    "login": "Войти",
+    "loginToAccount": "Личный кабинет",
+    "cancel": "Отменить",
+    "ok": "Хорошо",
+    "save": "Сохранить",
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "add": "Добавить",
+    "back": "Назад",
+    "next": "Далее",
+    "previous": "Предыдущий",
+    "showMore": "Показать еще",
+    "loading": "Загрузка",
+    "noData": "Нет данных",
+    "home": "На главную",
+    "user": "Пользователь",
+    "refresh": "Обновить",
+    "close": "Закрыть",
+    "confirm": "Подтвердить",
+    "menu": "Меню"
+  },
+  "navigation": {
+    "main": "Главная",
+    "services": "Сервисы",
+    "news": "Новости",
+    "questions": "Вопросы",
+    "dashboard": "Дашборд",
+    "profile": "Профиль",
+    "company": "Компания",
+    "employees": "Сотрудники",
+    "notifications": "Уведомления"
+  },
+  "brand": {
+    "name": "BizPortal",
+    "copyright": "© BizPortal. Все права защищены."
+  },
+  "auth": {
+    "loginPlaceholder": "Логин",
+    "passwordPlaceholder": "Пароль",
+    "companyPlaceholder": "Выберите компанию",
+    "loginWithSso": "Войти через SSO",
+    "logout": "Выйти"
+  },
+  "home": {
+    "headerTitle": "Стань {example}, используя современные и {convenient} решения",
+    "headerExample": "примером",
+    "headerConvenient": "удобные",
+    "headerDescription": "Единая платформа для компаний: подавайте заявки, отслеживайте их статус и получайте бонусы за активность",
+    "loginToAccount": "Войти в личный кабинет",
+    "advantagesTitle": "{advantages} быть {participant} проекта",
+    "advantagesHighlight": "Преимущества",
+    "participantHighlight": "участником",
+    "bannerTitle": "Готов двигаться с нами?",
+    "downloadTitle": "Попробуй {today}. Пользуйся {everyday}.",
+    "downloadToday": "сегодня",
+    "downloadEveryday": "каждый день",
+    "downloadDescription": "Экономь время и действуй проще. Все возможности в одном приложении.",
+    "statsCompanies": "Компаний уже пользуются нашей платформой",
+    "statsLabel": "250+",
+    "statsEnterprises": "Предприятия",
+    "statsTrees": "Заявки",
+    "statsStatus": "Сертификат",
+    "statsStatusCaption": "Сертифицированные компании",
+    "activityCardSubtitle": "Будь активным на платформе",
+    "activityCardTitle": "Твоя активность - Твой рост и преимущество",
+    "questionsTitle": "Вопросы о платформе",
+    "contactUs": "Связаться с нами",
+    "allQuestions": "Все вопросы",
+    "allServices": "Все сервисы",
+    "allNews": "Все новости",
+    "newsTitle": "Новости платформы",
+    "platformServicesTitle": "Сервисы нашей платформы",
+    "platformServicesDescription": "Сервисы помогают эффективно управлять проектами, экономить ресурсы и быстрее получать результат.",
+    "details": "Подробнее",
+    "points": "баллов",
+    "download": "Скачать"
+  },
+  "advantages": {
+    "priority": {
+      "title": "Приоритетная поддержка",
+      "description": "Заявки участников платформы рассматриваются в первую очередь"
+    },
+    "economic": {
+      "title": "Скидки у партнёров",
+      "description": "Специальные условия у партнёров платформы и поддержка участия в отраслевых выставках"
+    },
+    "financing": {
+      "title": "Поддержка стартапов",
+      "description": "Программы финансирования для стартапов и новых продуктов"
+    },
+    "export": {
+      "title": "Выход на новые рынки",
+      "description": "Консультации и помощь в выводе продукции на новые рынки"
+    },
+    "inspections": {
+      "title": "Упрощённая отчётность",
+      "description": "Сокращённый набор документов для отчётности на определённый срок"
+    },
+    "promotion": {
+      "title": "Продвижение продукции",
+      "description": "Размещение товаров и услуг участников на площадках платформы и партнёров"
+    },
+    "education": {
+      "title": "Обучение и эксперты",
+      "description": "Тренинги и консультации экспертов для развития бизнеса"
+    },
+    "awards": {
+      "title": "Награды и признание",
+      "description": "Награждение лучших участников платформы по итогам года"
+    }
+  },
+  "faq": {
+    "platform": {
+      "question": "Что такое платформа BizPortal?",
+      "answer": "Это платформа, которая помогает компаниям подавать заявки на услуги, проходить проверку и получать бонусы."
+    },
+    "registration": {
+      "question": "Как зарегистрироваться на платформе?",
+      "answer": "Вход в систему выполняется через SSO, затем заполняются данные компании и подаётся заявка."
+    },
+    "criteria": {
+      "question": "По каким критериям проводится оценка?",
+      "answer": "Каждая услуга имеет свой набор критериев. Их список доступен в карточке услуги."
+    },
+    "benefits": {
+      "question": "Какие преимущества даёт сертификат?",
+      "answer": "Предприятиям, которые соответствуют требованиям, льготы предоставляются автоматически. Перечень льгот: [...]."
+    },
+    "review": {
+      "question": "В какой срок рассматривается заявка?",
+      "answer": "В течение [... рабочих дней]. Статус заявки можно отслеживать в личном кабинете."
+    }
+  },
+  "company": {
+    "title": "Данные компании",
+    "transportTitle": "Транспортное средство",
+    "certificatesTitle": "Сертификаты",
+    "nameLabel": "Наименование компании",
+    "namePlaceholder": "Наименование компании",
+    "tinLabel": "ИНН",
+    "tinPlaceholder": "ИНН",
+    "okedLabel": "ОКЭД",
+    "okedPlaceholder": "ОКЭД",
+    "abbreviationLabel": "Аббревиатура",
+    "abbreviationPlaceholder": "Аббревиатура",
+    "legalAddressLabel": "Юридический адрес",
+    "legalAddressPlaceholder": "Юридический адрес",
+    "actualAddressLabel": "Фактический адрес",
+    "actualAddressPlaceholder": "Фактический адрес",
+    "regionLabel": "Область",
+    "regionPlaceholder": "Область",
+    "cityLabel": "Город",
+    "cityPlaceholder": "Город",
+    "districtLabel": "Район",
+    "districtPlaceholder": "Район",
+    "phoneLabel": "Номер телефона",
+    "statusActive": "Активный",
+    "statusInactive": "Неактивный",
+    "status": "Статус",
+    "directorLabel": "Ф.И.О. директора",
+    "logoHint": "Добавьте фотографию вашей компании в формате jpeg или png",
+    "logoButton": "Файл"
+  },
+  "transport": {
+    "title": "Транспортное средство",
+    "carBrandLabel": "Марка автомобиля",
+    "carLabel": "Автомобиль",
+    "carPlaceholder": "Автомобиль",
+    "numberLabel": "Номер автомобиля",
+    "numberPlaceholder": "Номер автомобиля",
+    "passportLabel": "Серия и номер тех. паспорта",
+    "passportPlaceholder": "Серия и номер тех. паспорта",
+    "deleteConfirm": "Вы действительно хотите удалить это транспортное средство?"
+  },
+  "employees": {
+    "title": "Сотрудники",
+    "addTitle": "Добавление сотрудника",
+    "deleteTitle": "Удаление сотрудника",
+    "employeeAdded": "Сотрудник добавлен",
+    "firstNamePlaceholder": "Имя",
+    "firstNameLabel": "Имя",
+    "middleNamePlaceholder": "Отчество",
+    "middleNameLabel": "Отчество",
+    "lastNamePlaceholder": "Фамилия",
+    "lastNameLabel": "Фамилия",
+    "passportPlaceholder": "Серия и номер паспорта",
+    "passportLabel": "Серия и номер паспорта",
+    "editTitle": "Редактировать сотрудника",
+    "deleteConfirm": "Вы действительно хотите удалить этого сотрудника?",
+    "listTitle": "Список сотрудников",
+    "fullNameLabel": "Ф.И.О.",
+    "positionLabel": "Должность",
+    "loginLabel": "Логин",
+    "passwordLabel": "Пароль",
+    "passwordHint": "Не меньше {min} символов, не только цифры",
+    "passwordWarning": "Пожалуйста, сохраните этот пароль в безопасном месте. Он больше не будет отображаться."
+  },
+  "profile": {
+    "changePasswordTitle": "Смена пароля",
+    "oldPasswordLabel": "Текущий пароль",
+    "newPasswordLabel": "Новый пароль",
+    "confirmPasswordLabel": "Повторите новый пароль",
+    "passwordsMismatch": "Пароли не совпадают",
+    "editPhoneTitle": "Редактировать номера телефонов",
+    "personalDataTitle": "Личные данные",
+    "birthdayLabel": "Дата рождения",
+    "pinLabel": "ПИНФЛ",
+    "loginPasswordLabel": "Логин и Пароль"
+  },
+  "services": {
+    "addServiceTitle": "Добавление услуги",
+    "quantityPlaceholder": "Количество",
+    "quantityLabel": "Количество",
+    "myServices": "Мои услуги",
+    "addService": "Добавить услугу",
+    "photoLabel": "Фото",
+    "locationLabel": "Локация",
+    "photoPlaceholder": "Добавьте фото выполненной работы",
+    "photoHint": "JPEG, PNG или WebP, до 5 МБ, не больше 10 фото",
+    "locationHint": "Нажмите на карту, чтобы поставить метку. Метку можно перетащить.",
+    "mapUnavailable": "Не удалось загрузить карту",
+    "regionLabel": "Регион",
+    "districtLabel": "Район",
+    "noteLabel": "Комментарий для проверяющего",
+    "notePlaceholder": "Что сделано и где это найти",
+    "submit": "Отправить на проверку",
+    "sentTitle": "Заявка отправлена",
+    "sentText": "Спасибо! Заявка отправлена на проверку. После одобрения вам будет начислено до {points} баллов.",
+    "currentPoints": "Текущий балл",
+    "date": "Дата",
+    "type": "Тип",
+    "district": "Район",
+    "openMap": "Перейти",
+    "rejectionReason": "Причина отказа",
+    "status": {
+      "DRAFT": "Черновик",
+      "SUBMITTED": "На проверке",
+      "APPROVED": "Одобрено",
+      "REJECTED": "Отклонено"
+    }
+  },
+  "errors": {
+    "404Title": "СОМНЕВАЮСЬ ЧТО ТАКАЯ СТРАНИЦА СУЩЕСТВУЕТ",
+    "noCompany": "Не удалось определить компанию пользователя"
+  },
+  "modals": {
+    "deleteAllImages": "Удалить все изображения",
+    "deleteImage": "Удалить"
+  },
+  "locales": {
+    "russian": "Рус",
+    "uzbek": "Узб"
+  }
+}

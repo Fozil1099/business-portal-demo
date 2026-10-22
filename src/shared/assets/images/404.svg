@@ -1,0 +1,11 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="250" cy="250" r="170" fill="url(#nf_g)"/>
+<ellipse cx="200" cy="180" rx="70" ry="45" fill="white" fill-opacity="0.18" transform="rotate(-30 200 180)"/>
+<path d="M215 210C215 188 231 172 252 172C273 172 289 187 289 206C289 232 256 236 256 262V272" stroke="white" stroke-width="22" stroke-linecap="round"/>
+<circle cx="256" cy="318" r="14" fill="white"/>
+<defs>
+<radialGradient id="nf_g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(190 170) rotate(50) scale(330)">
+<stop stop-color="#A99DF9"/><stop offset="0.55" stop-color="#6A58E0"/><stop offset="1" stop-color="#2E2180"/>
+</radialGradient>
+</defs>
+</svg>

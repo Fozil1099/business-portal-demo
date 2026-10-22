@@ -1,0 +1,256 @@
+{
+  "common": {
+    "login": "Kirish",
+    "loginToAccount": "Shaxsiy kabinet",
+    "cancel": "Bekor qilish",
+    "ok": "Yaxshi",
+    "save": "Saqlash",
+    "edit": "Tahrirlash",
+    "delete": "O'chirish",
+    "add": "Qo'shish",
+    "back": "Orqaga",
+    "next": "Keyingi",
+    "previous": "Oldingi",
+    "showMore": "Ko'proq ko'rsatish",
+    "loading": "Yuklanmoqda",
+    "noData": "Ma'lumot yo'q",
+    "home": "Bosh sahifa",
+    "user": "Foydalanuvchi",
+    "refresh": "Yangilash",
+    "close": "Yopish",
+    "confirm": "Tasdiqlash",
+    "menu": "Menyu"
+  },
+  "navigation": {
+    "main": "Bosh sahifa",
+    "services": "Xizmatlar",
+    "news": "Yangiliklar",
+    "questions": "Savollar",
+    "dashboard": "Boshqaruv paneli",
+    "profile": "Profil",
+    "company": "Kompaniya",
+    "employees": "Xodimlar",
+    "notifications": "Bildirishnomalar"
+  },
+  "brand": {
+    "name": "BizPortal",
+    "copyright": "© BizPortal. Barcha huquqlar himoyalangan."
+  },
+  "auth": {
+    "loginPlaceholder": "Login",
+    "passwordPlaceholder": "Parol",
+    "companyPlaceholder": "Kompaniyani tanlang",
+    "loginWithSso": "SSO orqali kirish",
+    "logout": "Chiqish"
+  },
+  "home": {
+    "headerTitle": "{example} bo'lib, zamonaviy va {convenient} echimlardan foydalaning",
+    "headerExample": "Namuna",
+    "headerConvenient": "qulay",
+    "headerDescription": "Kompaniyalar uchun yagona platforma: ariza yuboring, holatini kuzating va faollik uchun bonuslar oling",
+    "loginToAccount": "Shaxsiy kabinetga kirish",
+    "advantagesTitle": "Loyihada {participant} bo'lishning {advantages}i",
+    "advantagesHighlight": "afzallik",
+    "participantHighlight": "ishtirokchi",
+    "bannerTitle": "Biz bilan harakatga tayyormisiz?",
+    "downloadTitle": "{today} sinab ko'ring. {everyday} foydalaning.",
+    "downloadToday": "Bugun",
+    "downloadEveryday": "har kuni",
+    "downloadDescription": "Vaqtingizni tejang va osonroq harakat qiling. Barcha imkoniyatlar bitta ilovada.",
+    "statsCompanies": "Kompaniyalar platformamizdan foydalanmoqda",
+    "statsLabel": "250+",
+    "statsEnterprises": "Korxonalar",
+    "statsTrees": "Arizalar",
+    "statsStatus": "Sertifikat",
+    "statsStatusCaption": "Sertifikatlangan kompaniyalar",
+    "activityCardSubtitle": "Platformada faol bo'ling",
+    "activityCardTitle": "Faolligingiz — o'sishingiz va afzalligingiz",
+    "questionsTitle": "Platforma haqida savollar",
+    "contactUs": "Biz bilan bog'laning",
+    "allQuestions": "Barcha savollar",
+    "allServices": "Barcha xizmatlar",
+    "allNews": "Barcha yangiliklar",
+    "newsTitle": "Platforma yangiliklari",
+    "platformServicesTitle": "Bizning platforma xizmatlari",
+    "platformServicesDescription": "Xizmatlar loyihalarni samarali boshqarish, resurslarni tejash va natijaga tezroq erishish imkonini beradi.",
+    "details": "Batafsil",
+    "points": "ball",
+    "download": "Yuklab olish"
+  },
+  "advantages": {
+    "priority": {
+      "title": "Ustuvor qo'llab-quvvatlash",
+      "description": "Platforma ishtirokchilarining arizalari birinchi navbatda ko'rib chiqiladi"
+    },
+    "economic": {
+      "title": "Hamkorlardan chegirmalar",
+      "description": "Platforma hamkorlarida maxsus shartlar va soha ko'rgazmalarida ishtirokni qo'llab-quvvatlash"
+    },
+    "financing": {
+      "title": "Startaplarni qo'llab-quvvatlash",
+      "description": "Startaplar va yangi mahsulotlar uchun moliyalashtirish dasturlari"
+    },
+    "export": {
+      "title": "Yangi bozorlarga chiqish",
+      "description": "Mahsulotni yangi bozorlarga chiqarishda maslahat va yordam"
+    },
+    "inspections": {
+      "title": "Soddalashtirilgan hisobot",
+      "description": "Ma'lum muddatga hisobot uchun qisqartirilgan hujjatlar to'plami"
+    },
+    "promotion": {
+      "title": "Mahsulotni targ'ib qilish",
+      "description": "Ishtirokchilar mahsulot va xizmatlarini platforma va hamkorlar maydonchalarida joylashtirish"
+    },
+    "education": {
+      "title": "Ta'lim va ekspertlar",
+      "description": "Biznesni rivojlantirish uchun treninglar va ekspert maslahatlari"
+    },
+    "awards": {
+      "title": "Mukofotlar va e'tirof",
+      "description": "Yil yakunlari bo'yicha eng yaxshi ishtirokchilarni taqdirlash"
+    }
+  },
+  "faq": {
+    "platform": {
+      "question": "BizPortal platformasi nima?",
+      "answer": "Bu kompaniyalarga xizmatlarga ariza berish, tekshiruvdan o'tish va bonuslar olishga yordam beradigan platforma."
+    },
+    "registration": {
+      "question": "Platformada qanday ro'yxatdan o'tish mumkin?",
+      "answer": "SSO orqali tizimga kiriladi, kompaniya ma'lumotlari to'ldiriladi va ariza yuboriladi."
+    },
+    "criteria": {
+      "question": "Qaysi mezonlar bo'yicha baholanadi?",
+      "answer": "Har bir xizmatning o'z mezonlari bor. Ularning ro'yxati xizmat kartochkasida mavjud."
+    },
+    "benefits": {
+      "question": "Sertifikat qanday afzalliklar beradi?",
+      "answer": "Talablarga javob bergan korxonalarga imtiyozlar avtomatik ravishda beriladi. Imtiyozlar ro'yxati: [...]."
+    },
+    "review": {
+      "question": "Ariza qancha muddatda ko'rib chiqiladi?",
+      "answer": "[... ish kuni] ichida. Ariza holatini shaxsiy kabinetda kuzatish mumkin."
+    }
+  },
+  "company": {
+    "title": "Kompaniya ma'lumotlari",
+    "transportTitle": "Transport vositasi",
+    "certificatesTitle": "Sertifikatlar",
+    "nameLabel": "Kompaniya nomi",
+    "namePlaceholder": "Kompaniya nomi",
+    "tinLabel": "INN",
+    "tinPlaceholder": "INN",
+    "okedLabel": "OKED",
+    "okedPlaceholder": "OKED",
+    "abbreviationLabel": "Qisqartma",
+    "abbreviationPlaceholder": "Qisqartma",
+    "legalAddressLabel": "Yuridik manzil",
+    "legalAddressPlaceholder": "Yuridik manzil",
+    "actualAddressLabel": "Haqiqiy manzil",
+    "actualAddressPlaceholder": "Haqiqiy manzil",
+    "regionLabel": "Viloyat",
+    "regionPlaceholder": "Viloyat",
+    "cityLabel": "Shahar",
+    "cityPlaceholder": "Shahar",
+    "districtLabel": "Tuman",
+    "districtPlaceholder": "Tuman",
+    "phoneLabel": "Telefon raqami",
+    "statusActive": "Faol",
+    "statusInactive": "Nofaol",
+    "status": "Status",
+    "directorLabel": "Direktor F.I.O.",
+    "logoHint": "Kompaniyangiz rasmini jpeg yoki png formatda qo'shing",
+    "logoButton": "Fayl"
+  },
+  "transport": {
+    "title": "Transport vositasi",
+    "carBrandLabel": "Avtomobil markasi",
+    "carLabel": "Avtomobil",
+    "carPlaceholder": "Avtomobil",
+    "numberLabel": "Avtomobil raqami",
+    "numberPlaceholder": "Avtomobil raqami",
+    "passportLabel": "Texnik passport seriyasi va raqami",
+    "passportPlaceholder": "Texnik passport seriyasi va raqami",
+    "deleteConfirm": "Haqiqatan ham bu transport vositasini o'chirmoqchimisiz?"
+  },
+  "employees": {
+    "title": "Xodimlar",
+    "addTitle": "Xodim qo'shish",
+    "deleteTitle": "Xodimni o'chirish",
+    "employeeAdded": "Xodim qo'shildi",
+    "firstNamePlaceholder": "Ism",
+    "firstNameLabel": "Ism",
+    "middleNamePlaceholder": "Otasining ismi",
+    "middleNameLabel": "Otasining ismi",
+    "lastNamePlaceholder": "Familiya",
+    "lastNameLabel": "Familiya",
+    "passportPlaceholder": "Pasport seriyasi va raqami",
+    "passportLabel": "Pasport seriyasi va raqami",
+    "editTitle": "Xodimni tahrirlash",
+    "deleteConfirm": "Haqiqatan ham bu xodimni o'chirmoqchimisiz?",
+    "listTitle": "Xodimlar ro'yxati",
+    "fullNameLabel": "F.I.O.",
+    "positionLabel": "Lavozim",
+    "loginLabel": "Login",
+    "passwordLabel": "Parol",
+    "passwordHint": "Kamida {min} ta belgi, faqat raqamlardan iborat bo'lmasin",
+    "passwordWarning": "Iltimos, bu parolni xavfsiz joyda saqlang. U boshqa ko'rsatilmaydi."
+  },
+  "profile": {
+    "changePasswordTitle": "Parolni o'zgartirish",
+    "oldPasswordLabel": "Joriy parol",
+    "newPasswordLabel": "Yangi parol",
+    "confirmPasswordLabel": "Yangi parolni takrorlang",
+    "passwordsMismatch": "Parollar mos kelmadi",
+    "editPhoneTitle": "Telefon raqamlarini tahrirlash",
+    "personalDataTitle": "Shaxsiy ma'lumotlar",
+    "birthdayLabel": "Tug'ilgan sana",
+    "pinLabel": "PINFL",
+    "loginPasswordLabel": "Login va Parol"
+  },
+  "services": {
+    "addServiceTitle": "Xizmat qo'shish",
+    "quantityPlaceholder": "Miqdor",
+    "quantityLabel": "Miqdor",
+    "myServices": "Mening xizmatlarim",
+    "addService": "Xizmat qo'shish",
+    "photoLabel": "Rasm",
+    "locationLabel": "Joylashuv",
+    "photoPlaceholder": "Bajarilgan ish rasmlarini qo'shing",
+    "photoHint": "JPEG, PNG yoki WebP, 5 MB gacha, ko'pi bilan 10 ta rasm",
+    "locationHint": "Belgi qo'yish uchun xaritani bosing. Belgini sudrab o'tkazish mumkin.",
+    "mapUnavailable": "Xaritani yuklab bo'lmadi",
+    "regionLabel": "Viloyat",
+    "districtLabel": "Tuman",
+    "noteLabel": "Tekshiruvchi uchun izoh",
+    "notePlaceholder": "Nima qilingan va uni qayerdan topish mumkin",
+    "submit": "Tekshiruvga yuborish",
+    "sentTitle": "Ariza yuborildi",
+    "sentText": "Rahmat! Ariza tekshiruvga yuborildi. Tasdiqlangandan so'ng sizga {points} ballgacha beriladi.",
+    "currentPoints": "Joriy ball",
+    "date": "Sana",
+    "type": "Turi",
+    "district": "Tuman",
+    "openMap": "O'tish",
+    "rejectionReason": "Rad etish sababi",
+    "status": {
+      "DRAFT": "Qoralama",
+      "SUBMITTED": "Tekshiruvda",
+      "APPROVED": "Tasdiqlangan",
+      "REJECTED": "Rad etilgan"
+    }
+  },
+  "errors": {
+    "404Title": "BUNDAY SAHIFA MAVJUD EMASLIGIGA ISHONCHIM KOMIL",
+    "noCompany": "Foydalanuvchi kompaniyasini aniqlab bo'lmadi"
+  },
+  "modals": {
+    "deleteAllImages": "Barcha rasmlarni o'chirish",
+    "deleteImage": "O'chirish"
+  },
+  "locales": {
+    "russian": "Rus",
+    "uzbek": "O'zb"
+  }
+}

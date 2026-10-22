@@ -1,0 +1,29 @@
+@theme {
+  /* secondary */
+  --color-secondary-200: #f2f2f2;
+  --color-secondary-300: #cccccc;
+  --color-secondary-400: #666666;
+  --color-secondary-500: #333333;
+
+  /* dark */
+  --color-dark: #121212;
+
+  /* warning */
+  --color-warning-100: #dea85b;
+
+  /* success */
+  --color-success-100: #4f3cc9;
+
+  /* danger */
+  --color-danger-100: #D43514;
+
+  /* info */
+  --color-info-100: #0BA2EE;
+
+  /* Max width */
+  --max-width-base: 1452px;
+
+  /* Spacing */
+  --spacing-15: 60px;
+  --spacing-25: 100px;
+}
